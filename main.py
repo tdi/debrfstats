@@ -14,9 +14,8 @@
 #
 # You should have received a copy of the GNU General Public License
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
-
-from RFSStats import RFSStats
-from get_done_date import get_done_date
+from debrfstats.RFSStats import RFSStats
+from debrfstats.get_done_date import get_done_date
 from datetime import date
 
 if __name__ == "__main__":

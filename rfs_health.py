@@ -17,7 +17,7 @@
 import time
 import SOAPpy
 from datetime import date
-from RFSStats import RFS
+from debrfstats.RFSStats import RFS
 
 if __name__ == "__main__":
 
